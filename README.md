@@ -49,3 +49,5 @@ My personal portfolio. features my github project as well as my resume and techn
 ## View
 
 https://portfolio-website-react22.herokuapp.com/
+<img width="1439" alt="Screenshot 2022-11-22 at 9 36 16 PM" src="https://user-images.githubusercontent.com/112361368/203451118-6da02415-b6b7-4480-b996-ff10e2c93657.png">
+
